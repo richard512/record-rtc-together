@@ -2,7 +2,7 @@
 
 Record video and audio together or individually on the web using `getUserMedia`.
 
-**[Online Demo](http://h0201030.github.io/record-rtc-together) (Only works on Google Chrome)**
+**[Online Demo](https://h0201030.github.io/record-rtc-together) (Only works on Google Chrome)**
 
 It creates two files individually for video (`webm` at 10 fps) and audio (`wav`).
 
